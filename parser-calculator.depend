@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1660495569 source:c:\users\x7b3a\documents\parcer-calculator\main.cpp
+	"test.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1660495655 c:\users\x7b3a\documents\parcer-calculator\test.h
+	"parser.h"
+	"eval.h"
+
+1660495634 c:\users\x7b3a\documents\parcer-calculator\parser.h
+	<string>
+	<vector>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdexcept>
+	<tuple>
+	"expression.h"
+
+1660495226 c:\users\x7b3a\documents\parcer-calculator\expression.h
+	<iostream>
+
+1660495258 c:\users\x7b3a\documents\parcer-calculator\eval.h
+
+1660494688 source:c:\users\x7b3a\documents\parcer-calculator\parser.cpp
+	"parser.h"
+
+1660495569 source:c:\users\x7b3a\documents\github\parcer-calculator\testing-of-parser-calculator\main.cpp
+	"test.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1660495655 c:\users\x7b3a\documents\github\parcer-calculator\testing-of-parser-calculator\test.h
+	"parser.h"
+	"eval.h"
+
+1660495634 c:\users\x7b3a\documents\github\parcer-calculator\testing-of-parser-calculator\parser.h
+	<string>
+	<vector>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdexcept>
+	<tuple>
+	"expression.h"
+
+1660495226 c:\users\x7b3a\documents\github\parcer-calculator\testing-of-parser-calculator\expression.h
+	<iostream>
+
+1660495258 c:\users\x7b3a\documents\github\parcer-calculator\testing-of-parser-calculator\eval.h
+
+1660494688 source:c:\users\x7b3a\documents\github\parcer-calculator\testing-of-parser-calculator\parser.cpp
+	"parser.h"
+
